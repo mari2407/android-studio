@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Employeesalary</string>
+    <string name="emptitle">Employee salary calculation</string>
+    <string name="empname">Employee name</string>
+    <string name="empsalary">Employee salary</string>
+    <string name="emptax">Employee tax</string>
+    <string name="netsal">net salary</string>
+    <string name="ok">ok</string>
+    <string name="cancel">cancel</string>
+</resources>
